@@ -30,4 +30,3 @@ Identifying high-risk customers allows companies to take targeted retention acti
 ## Data  
 - [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-## Updated July 2026 to improve the project documentation.
